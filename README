@@ -1,0 +1,6 @@
+Zhello is a trivial Delphi application using YAZ (Z39.50) library.
+
+Zoom.pas is the interface to yaz library functions and it is known 
+to work with yaz version 3.0.50.
+
+Zoom.pas is licensed under the MIT License, see LICENSE.txt for details.
